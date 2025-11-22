@@ -1,0 +1,30 @@
+[
+  
+  
+  {
+    "title": "GYM",
+    "description": "My_Fitness | HTML | CSS",
+    "image": "https://spaces.w3schools.com/images/xwMlVSqP20U.jpg",
+    "link1": "https://github.com/Eknath001/My_Fitness",
+    "link2": "https://github.com/Eknath001/My_Fitness",
+    "category": "software"
+  },
+   
+  {
+    "title": "JAVA Spring Boot CRUD",
+    "description": "Software Project - JAVA Springboot CRUD Test",
+    "image": "assets/img/portfolio/Spring-CRUD.png",
+    "link1": "https://github.com/Eknath001/Nimap-Task",
+    "link2": "https://github.com/Eknath001/Nimap-Task",
+    "category": "hardware"
+  },
+  {
+    "title": "student-mangement-system",
+    "description": "Software Project - student-system",
+    "image": "assets/img/portfolio/Spring-CRUD.png",
+    "link1": "https://github.com/Eknath001/student-sys",
+    "link2": "https://github.com/Eknath001/student-sys",
+    "category": "Frontend And Backend"
+  }
+
+]
