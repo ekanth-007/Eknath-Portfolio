@@ -9,7 +9,7 @@
       content="Professional portfolio of Eknath Changade - Full Stack Java Developer specializing in Java, Spring Boot, React, Node.js, MongoDB, and modern web technologies."
     />
 
-    <!-- Fonts  -->
+    <!-- Fonts  --> 
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
       rel="stylesheet"
@@ -843,35 +843,19 @@
             </div>
 
             <div class="social-links">
-              <a
-                href="mailto:ekanathchangade@gmail.com"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <a href="mailto:ekanathchangade@gmail.com" target="_blank">
                 <i class="fas fa-envelope"></i>
               </a>
-
               <a
                 href="https://linkedin.com/in/eknath-changade-full-stack-java-developer"
                 target="_blank"
-                rel="noopener noreferrer"
               >
                 <i class="fab fa-linkedin"></i>
               </a>
-
-              <a
-                href="https://github.com/ekanth-007"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <a href="https://github.com/ekanth-007" target="_blank">
                 <i class="fab fa-github"></i>
               </a>
-
-              <a
-                href="https://wa.me/918329274587"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <a href="https://wa.me/918329274587" target="_blank">
                 <i class="fab fa-whatsapp"></i>
               </a>
             </div>
@@ -1099,17 +1083,14 @@
               </div>
               <div class="project-links">
                 <a
-                  href="https://eknath-portfolio.vercel.app"
+                  href="https://my-portfolio-murex-two-88.vercel.app"
                   target="_blank"
-                  rel="noopener noreferrer"
                 >
                   <i class="fas fa-external-link-alt"></i> Live Demo
                 </a>
-
                 <a
-                  href="https://github.com/ekanth-007/Eknath-Portfolio"
+                  href="https://github.com/ekanth-007/my_portfolio"
                   target="_blank"
-                  rel="noopener noreferrer"
                 >
                   <i class="fab fa-github"></i> GitHub
                 </a>
@@ -1135,19 +1116,10 @@
                 <span class="tech-tag">MogoDB Altas</span>
               </div>
               <div class="project-links">
-                <a
-                  href="https://my-alpha-infiniti.vercel.app"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <a href="https://my-alpha-infiniti.vercel.app" target="_blank">
                   <i class="fas fa-external-link-alt"></i> Live Demo
                 </a>
-
-                <a
-                  href="https://github.com/ekanth-007/my"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <a href="https://github.com/ekanth-007/my" target="_blank">
                   <i class="fab fa-github"></i> GitHub
                 </a>
               </div>
